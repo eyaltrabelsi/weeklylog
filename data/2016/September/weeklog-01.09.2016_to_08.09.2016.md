@@ -1,4 +1,4 @@
-# weeklylog 28.08.2016 - 31.08.2016
+# weeklylog 01.09.2016 - 08.09.2016
 
 ## Articles
 - [How to Tell a Powerful Story with Data Visualization](http://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization?__s=XXXXXXXX&__s=kxzebqrike7dqrvnvmpc) `data visualization` `Infographics` `vs`

@@ -1,4 +1,4 @@
-# weeklylogs 28.08.2016 - 31.08.2016
+# weeklylogs 09.09.2016 - 16.09.2016
 
 ## Articles
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/) `data visualization` `markov chain`
