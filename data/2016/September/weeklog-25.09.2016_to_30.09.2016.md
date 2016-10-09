@@ -24,9 +24,10 @@
 
 ## Tips
 - [Python spread json array snippet](https://mindtrove.info/) `pandas` `python` `json` `normalization`
-- [Python ignore context manager snippet](https://gist.github.com/eyaltrabelsi/64b523a8231b7f38956449c9e37472c4) `context manager` `python` `exception handling`
 - [The Zero one or infinity](https://en.wikipedia.org/wiki/Zero_one_infinity_rule) `favorite` `principle`
 
+## Snippets
+- [Python ignore context manager snippet](https://gist.github.com/eyaltrabelsi/64b523a8231b7f38956449c9e37472c4) `context manager` `python` `exception handling`
 
 ## Packages
 - [Add a progress meter to your loops in a second](https://github.com/noamraph/tqdm/) `process bar` `python`
