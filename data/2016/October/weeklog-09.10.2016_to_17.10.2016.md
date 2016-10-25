@@ -1,4 +1,4 @@
-# weeklylog 01.10.2016 - 08.10.2016
+# weeklylog 09.10.2016 - 17.10.2016
 
 ## Articles
 - [ROC curve demonstration](https://arogozhnikov.github.io/2015/10/05/roc-curve.html) `roc` `metric` `classification` `visualization`
