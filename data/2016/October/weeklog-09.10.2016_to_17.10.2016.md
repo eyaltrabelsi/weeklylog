@@ -39,7 +39,6 @@
 - [dataframe column precent distribution gist](https://gist.github.com/eyaltrabelsi/a2c437dc4322c2638efa3e4dacda84e5)
 - [Print DataFrame as table in iPython Notebook](https://gist.github.com/eyaltrabelsi/6bca1cdcf574e16681daf91aa2da0529)
 
-
 ## Packages
-- [An IPython magic extension for printing date and time stamps, version numbers, and hardware information](https://github.com/rasbt/watermark#examples)
-- [A Python tool that automatically cleans data sets and readies them for analysis](https://github.com/rhiever/datacleaner)
+- [An IPython magic extension for printing date and time stamps, version numbers, and hardware information](https://github.com/rasbt/watermark#examples) `ipython extention` `profile` `package version` `hardware information` `magic`
+- [A Python tool that automatically cleans data sets and readies them for analysis](https://github.com/rhiever/datacleaner) `python` `clean` `pandas`

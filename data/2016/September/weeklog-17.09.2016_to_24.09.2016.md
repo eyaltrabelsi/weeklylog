@@ -1,7 +1,7 @@
 # weeklylogs 17.09.2016 - 24.09.2016
 
 ## Articles
-- [MPython + Elasticsearch, First steps](https://tryolabs.com/blog/2015/02/17/python-elasticsearch-first-steps/),[2](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb) `elastic search` `python` `101` `favorite`
+- [Python + Elasticsearch, First steps](https://tryolabs.com/blog/2015/02/17/python-elasticsearch-first-steps/),[2](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb) `elastic search` `python` `101` `favorite`
 - [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/) `data visualization` `pca`
 - [כיצד מגדירים ארכיטקטורה? צעד אחר צעד](http://www.softwarearchiblog.com/2014/11/architecutre-definition-illustrated.html?m=0) `architecture` `chess` `oop`
 - [Central Limit Theorem Visualized in D3](http://blog.vctr.me/posts/central-limit-theorem.html) `data visualization` `probability` `statistics` `central limit theorem`
@@ -29,9 +29,6 @@
     - output x cell -> _x
     - save always .py and .html as well
     - naming notebook -> <date>-<developer>-<2-4 words desc>
-    - [sql plugin] (https://github.com/catherinedevlin/ipython-sql)
-    - [An Interactive Grid for Sorting and Filtering DataFrames in IPython Notebook](https://github.com/quantopian/qgrid)
-    - [other great ipython extentions]()https://github.com/ipython/ipython/wiki/Extensions-Index
 - Balancing Imbalanced Classes:
     - Oversampling and undersampling:
         - By oversampling The problem is that the separating lines we learn will have high bias 
