@@ -24,7 +24,7 @@
 - [markdown installation](http://macdown.uranusjr.com/) `markdown` `install`
 
 
-# Snippets
+## Snippets
 - [downloading subdirectory from repository](https://gist.github.com/eyaltrabelsi/0612e701edcf58e2371bda8cab0c985f) `download` `github` `svn` `git` `sub directory`
 - [Kill program that occupy specific port](https://gist.github.com/eyaltrabelsi/772f58e871ebc52bde9eeccbc75ea40c) `kill` `proccess` `port`
 - [Convert multiple images to one animation](https://gist.github.com/eyaltrabelsi/419698e61d7ded156945cb72ec325231) `animation` `imagemagic` 

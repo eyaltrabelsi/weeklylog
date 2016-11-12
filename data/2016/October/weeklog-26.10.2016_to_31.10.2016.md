@@ -34,9 +34,4 @@
     
 ## Snippets
 - [context manager to allow use git repository](https://gist.github.com/eyaltrabelsi/df31a13696b33188710a843e2ad657f4)
-
-
-from users 
-
-- [convert notebook to slideshow]() 
-jupyter nbconvert <notebook-name> --to slides --post serve
+- [convert notebook to slideshow](https://gist.github.com/eyaltrabelsi/72b553498fe79bb47c26c41d70a84961) 
