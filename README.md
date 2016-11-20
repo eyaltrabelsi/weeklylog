@@ -4,7 +4,9 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 
 
 ## November 2016
+- [Week 09.11.2016 - 17.11.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2016/November/weeklog-09.11.2016_to_17.11.2016.md) 
 - [Week 01.11.2016 - 08.11.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2016/November/weeklog-01.11.2016_to_08.11.2016.md) 
+
 
 ## October
 - [Week 26.10.2016 - 30.10.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2016/October/weeklog-26.10.2016_to_31.10.2016.md)
