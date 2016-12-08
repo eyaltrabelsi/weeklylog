@@ -24,7 +24,7 @@
 - [query redshift from bash using psql](https://gist.github.com/eyaltrabelsi/b15ab470b22b0a89459c90385527a1e7)
 
 ## Tips
-- Redshift tips:
+- **Redshift tips**:
     - to improve redshift's performance apply selective filters before join
     - timeout redshift during peak hours, since redshift's share the same computational resources
     - If a scheduled maintenance occurs while a query is running, the query is terminated and rolled back and you will need to restart it. Schedule long-running operations, such as large data loads or VACUUM operation, to avoid maintenance windows. You can also minimize the risk, and make restarts easier when they are needed, by performing data loads in smaller increments and managing the size of your VACUUM operations. For more information, see Load Data in Sequential Blocks and Vacuuming Tables.
@@ -46,7 +46,7 @@
       Choose a column with high cardinality in the filtered result set.
       If a dimension table cannot be collocated with the fact table or other important joining tables, you can improve query performance significantly by distributing the entire table to all of the nodes. Using ALL distribution multiplies storage space requirements and increases load times and maintenance operations, so you should weigh all factors before choosing ALL distribution.
     - In case only new values are getting update sometimes its better to split the table into old and new data and to vaccuum only thenew data
-- Data project pitfalls:
+- **Data project pitfalls**:
     - Assume data in database is garbage unless its been used before
     - Data is not a commodity, it needs to be transformed into a product before it's valuable
     - You wont know the results are trash. selection bias, measurement bias, simpson paradox, etc for this you need scientists
@@ -54,7 +54,7 @@
     - Use an interpretable model first and then test against a baseline
     - the core of science is reproducibility please do , git , code review automated testing, data pipline etc
     - The real data will have weird outliers, or be boring. It will be too dynamic. It will be either too predictable or not predictable enough. Use live data from the beginning or your project will end in misery and self-hatred.
-- data science resume:
+- **data science resume**:
     - DON’T: Bury your skills in fluff  
     - DON’T give up just because you don’t have on-the-job experience
     - DO: Emphasize metrics to showcase success

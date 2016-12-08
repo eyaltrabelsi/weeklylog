@@ -24,21 +24,21 @@
 
 ## Tips
 - in order to open finder in terminal the fbe written following command should  "open . trick"    
-- Data Project tips:
+- **Data Project tips**:
     - An exploratory phase is needed to round up the available data and start the conversation accross the company.
     - The scope of the first deliverables should be expected to be narrow and incremental. Don’t let lose the momentum by shooting for too disruptive projects. Let a thousand flowers bloom.
     - Then, expand your goals well and focus on ROI. Prioritize.
-- Testing tips:
+- **Testing tips**:
     - 100% coverage is mandatory.
     - There is no substitute for hard work.
     - You need both very general and very specific tests.
     - All bugs result in tests.
-- RDBMS tips:
+- **RDBMS tips**:
     - Choosing which indexes to create requires the database designer to analyze a trade-off. In practice, this choice is one of the principal factors that influ­ ence whether a database design gives acceptable performance. Two important factors to consider are:
         * The existence of an index on an attribute may speed up greatly the exe­ cution of those queries in which a value, or range of values, is specified for that attribute, and may speed up joins involving that attribute as well.
         * On the other hand, every index built for one or more attributes of some relation makes insertions, deletions, and updates to that relation more complex and time-consuming.
     - But When modifications dominate, it is costly to have materialized views, or even indexes, on the data.
-- Postgress tips
+- **Postgress tips**:
     - Use COPY to load all the rows in one command, instead of using a series of INSERT commands. The COPY command is optimized for loading large numbers of rows; it is less flexible than INSERT, but incurs significantly less overhead for large data loads. Since COPY is a single command, there is no need to disable autocommit if you use this method to populate a table.
-- Redshift notes:
+- **Redshift notes**:
     - redshift keep meta data  of each slice of min , max value which can reduce the need for scan the entire slice.

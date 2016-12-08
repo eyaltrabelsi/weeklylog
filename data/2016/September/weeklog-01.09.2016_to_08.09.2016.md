@@ -22,7 +22,7 @@
 
 ## Tips
 - zstd using zstd access.log or piping
-- dangerous data points:
+- **dangerous data points**:
     1. Pretending uncertainty doesn’t exist
     2. Thinking that your data is correct
     3. Believing that your data is complete

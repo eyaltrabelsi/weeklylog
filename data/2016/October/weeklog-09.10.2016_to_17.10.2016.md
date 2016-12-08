@@ -27,7 +27,7 @@
 
 
 ## Tips
-- Github
+- **Github**:
     - Highlight line number in github page by adding #L52 or #L53-L60 to the end of a code file URL 
     - Gist as html snippet by Adding .pibb for embedding in any other site.
     - Ignore whitespaces changes when comparing by adding ?w=1 to any diff URL which enabling you to see only that code that has changed.

@@ -22,15 +22,14 @@
 - One can count file in folder by aws s3 ls --recursive s3://BUCKET_NAME/FOLDER_NAME | wc -l `s3` `snippet` `file count`
     
 ## Tips
-- Boto performance:
+- **Boto performance**:
     - instead of using s3.get_bucket(bucket_name) one can use s3.get_bucket(bucket_name, validate=False)
 
-- Data Format:
+- **Data Format**:
     - fast write no space concern: just store your data in text format with the understanding that query times for large data sets will be longer
     - handle evolving data in your system: rely on Avro to save schemas. Keep in mind, though, that when writing files to the system Avro requires an pre-populated schema, which might involve some additional processing at the beginning.
     - optimized  analysis:  then you might want to take a look at a columnar format such as Parquet or ORC because they offer the best performance in queries, particularly for partial searches where you are only reading specific columns. However, the speed advantage might decrease if you are reading all the columns.
-        
-- RDBMS Tips:
+- **RDBMS Tips**:
     - How to choose which columns for index:
         * The primary and foreign keys columns are candidates for index.
         * Choose columns which not frequently updated, since index will degrade performance of DML  (update, insert, delete) operations (due to index table maintenance).

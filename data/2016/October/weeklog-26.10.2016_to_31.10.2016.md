@@ -19,7 +19,7 @@
 
 ## Tips
 - By adding a semicolon at the end of a ipython notebook cell, the output is suppressed.
-- airflow best practices: 
+- **airflow best practices**: 
     - do you have longer running task? increase the hearbeat of the scedular to decrease load
     - smaller tasks make easier for debuggingg and retying 
     - properly choosoe your start date changing the sceuduale require change the dag id

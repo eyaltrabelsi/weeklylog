@@ -24,12 +24,12 @@
 
 ## Tips
 - How to squash all git commits into one? git rebase --root -i. For each commit except the first, change pick to squash
-- Ipython Notebook tips:
+- **Ipython Notebook tips**:
     - html -> IFrame()
     - output x cell -> _x
     - save always .py and .html as well
     - naming notebook -> <date>-<developer>-<2-4 words desc>
-- Balancing Imbalanced Classes:
+- **Balancing Imbalanced Classes**:
     - Oversampling and undersampling:
         - By oversampling The problem is that the separating lines we learn will have high bias 
         - We can do better by down-sampling the majority class to match that of the minority class. The problem is that the separating lines we learn will have high variability
