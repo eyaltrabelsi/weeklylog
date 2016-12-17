@@ -4,7 +4,7 @@
 - [I’m sorry Cron, I’ve met AirBnB’s Airflow](https://danidelvalle.me/2016/09/12/im-sorry-cron-ive-met-airbnbs-airflow/) `vs` `airflow` `airbnb` `data workflow` `etl` `favorite` `data engineering`
 - [SVM: Separating hyperplane for unbalanced classes](http://scikit-learn.org/stable/auto_examples/svm/plot_separating_hyperplane_unbalanced.html) `unbalance classes` `classification` `scikit-learn` `python`
 - [Postgres full-text search is Good Enough!](http://rachbelaid.com/postgres-full-text-search-is-good-enough/) `full text search` `postgres` `favorite`
-- [How We Filmed our Crowdfunding Video for Under $2,000](https://blog.somaticlabs.io/how-we-filmed-our-crowdfunding-video-for-under-2000/) `video` `crowdfunding` `cheap`
+- [How We Filmed our Crowd funding Video for Under $2,000](https://blog.somaticlabs.io/how-we-filmed-our-crowdfunding-video-for-under-2000/) `video` `crowdfunding` `cheap`
 - [I gave commit rights to someone I didn't know, I could never have guessed what happened next](http://jakewins.com/p/clickbait) `git` `open source` `github`
 - [The 5 Common Mistakes That Lead to Bad Data Visualization](http://blog.socialcops.com/resources/common-mistakes-bad-data-visualization) `data visualization` `mistakes` `tips`
 - [Luigi vs Airflow vs Pinball](http://bytepawn.com/luigi-airflow-pinball.html) `data engineering` `luigi` `airflow` `pinball` `spotify` `airbnb` `favorite` `etl` `workflow`
@@ -22,12 +22,12 @@
 ## Videos
 - [Airbnb Tech Talk: Zach Holman - Git and Github Secrets](https://www.youtube.com/watch?v=NFlViYmyADc) `git` `tips` `github`
 
-## Tips
-- [Python spread json array snippet](https://mindtrove.info/) `pandas` `python` `json` `normalization`
+## Principles
 - [The Zero one or infinity](https://en.wikipedia.org/wiki/Zero_one_infinity_rule) `favorite` `principle`
 
 ## Snippets
 - [Python ignore context manager snippet](https://gist.github.com/eyaltrabelsi/64b523a8231b7f38956449c9e37472c4) `context manager` `python` `exception handling`
+- [Python spread json array snippet](https://mindtrove.info/) `pandas` `python` `json` `normalization`
 
 ## Packages
 - [Add a progress meter to your loops in a second](https://github.com/noamraph/tqdm/) `process bar` `python`

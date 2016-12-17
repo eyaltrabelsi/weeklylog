@@ -2,7 +2,7 @@
 
 ## Articles
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/) `data visualization` `markov chain`
-- [Eigenvectors and Eigenvalues Explained Visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/) `favorite` `data visualization` `eigen vector` `eigen value`
+- [Eigen vectors and Eigenvalues Explained Visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/) `favorite` `data visualization` `eigen vector` `eigen value`
 - [Solving unicode Problems](https://www.azavea.com/blog/2014/03/24/solving-unicode-problems-in-python-2-7/) `python` `decode` `encode`
 - [AWS: היכרות עם SxS - "השירותים הפשוטים" של אמזון - חלק א'](http://www.softwarearchiblog.com/2015/04/aws-simple-services-part1.html?m=0) `sqs` `sns` `aws`
 - [GTA is teaching self-driving cars how to navigate better in the real world](http://thenextweb.com/artificial-intelligence/2016/09/12/gta-teaching-self-driving-cars-steer/) `gta` `self driving cars` `gta` `games`
@@ -16,7 +16,6 @@
 
 ## Videos
 - [Pragmatic Unicode, or, How do I stop the pain?](https://www.youtube.com/watch?v=sgHbC6udIqc) `python` `decode` `encode`
-
 
 ## Snippets
 - One can count file in folder by aws s3 ls --recursive s3://BUCKET_NAME/FOLDER_NAME | wc -l `s3` `snippet` `file count`

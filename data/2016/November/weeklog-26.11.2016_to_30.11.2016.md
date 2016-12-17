@@ -3,7 +3,7 @@
 ## Articles
 - [Ten Ways Your Data Project is Going to Fail](http://www.martingoodson.com/ten-ways-your-data-project-is-going-to-fail/) `data project` `favorite` `pitfalls` 
 - [Capturing semantic meanings using deep learning](https://www.oreilly.com/learning/capturing-semantic-meanings-using-deep-learning) `nlp` `ml` `word2vec` `deep learning` `favorite` `fasttext` `unsupervised learning`  
-- [How is autoencoder compared with other dimensionality reduction algorithms?](https://www.quora.com/How-is-autoencoder-compared-with-other-dimensionality-reduction-algorithms) `autoencoder` `ml` `unsupervised learning` `dimentionaly reduction` `pca` 
+- [How is auto-encoder compared with other dimensionality reduction algorithms?](https://www.quora.com/How-is-autoencoder-compared-with-other-dimensionality-reduction-algorithms) `autoencoder` `ml` `unsupervised learning` `dimentionaly reduction` `pca` 
 - [Stop Coding Machine Learning Algorithms From Scratch](http://machinelearningmastery.com/dont-implement-machine-learning-algorithms/) `ml` `tips` 
 - [Deciding Whether to Reindex](http://docs.aws.amazon.com/redshift/latest/dg/r_vacuum-decide-whether-to-reindex.html) `redshift` `index` `data engineer` 
 - [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) `convolutions` `visualization` `ml` `favorite` `neural networks` 
@@ -12,7 +12,7 @@
 - [DeepMind and Blizzard to release StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/) `deepmind` `blizzard` `ai research environment`
 
 ## Packages
-- [Tutorial: automatic summarization using Gensim](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
+- [Tutorial: automatic symmetrization using Gensim](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
 - [Utils for streaming large files (S3, HDFS, gzip, bz2...)](https://github.com/RaRe-Technologies/smart_open) `streaming` `context manager` `boto` `hdfs` `python`
 
 ## Videos
