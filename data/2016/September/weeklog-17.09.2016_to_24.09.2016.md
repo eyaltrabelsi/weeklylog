@@ -21,6 +21,14 @@
 ## Videos
 - [IPython Notebook best practices for data science](https://www.youtube.com/watch?v=JI1HWUAyJHE) `data science` `ipython notebook` `tips` 
 
+## Packages
+- [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/master/) `data` `data engineer` `db` `client`
+- [Better directory iterator and faster os.walk()](https://github.com/benhoyt/scandir) `python` `directory iterator`
+- [Ipython notebook sql plugin] (https://github.com/catherinedevlin/ipython-sql) `sql` `ipython notebook` `extension`
+- [An Interactive Grid for Sorting and Filtering DataFrames in IPython Notebook](https://github.com/quantopian/qgrid) `extension` `ipython notebook`
+- [other great ipython extentions](https://github.com/ipython/ipython/wiki/Extensions-Index) `extension` `ipython notebook` `favorite`
+
+
 
 ## Tips
 - How to squash all git commits into one? git rebase --root -i. For each commit except the first, change pick to squash
@@ -43,11 +51,3 @@
     - Synthesizing new examples: SMOTE and descendants
     - Adjusting class weights:
         - the minority class gains in importance (its errors are considered more costly than those of the other class) and the separating hyperplane is adjusted to reduce the loss.
-
-
-## Packages
-- [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/master/) `data` `data engineer` `db` `client`
-- [Better directory iterator and faster os.walk()](https://github.com/benhoyt/scandir) `python` `directory iterator`
-- [Ipython notebook sql plugin] (https://github.com/catherinedevlin/ipython-sql) `sql` `ipython notebook` `extension`
-- [An Interactive Grid for Sorting and Filtering DataFrames in IPython Notebook](https://github.com/quantopian/qgrid) `extension` `ipython notebook`
-- [other great ipython extentions](https://github.com/ipython/ipython/wiki/Extensions-Index) `extension` `ipython notebook` `favorite`

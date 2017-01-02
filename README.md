@@ -3,7 +3,9 @@ Too often, a week passes by and I reflect back on it wondering what I actually a
 <br />This log is my attempt to document where my job takes me on a week-to-week basis.
 
 ## December 2016
-- [Week 09.12.2016 - 16.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/actualWeeklyLog/data/2016/December/weeklog-01.12.2016_to_08.12.2016.md) 
+- [Week 25.12.2016 - 31.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/actualWeeklyLog/data/2016/December/weeklog-25.12.2016_to_31.12.2016.md) 
+- [Week 17.12.2016 - 24.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/actualWeeklyLog/data/2016/December/weeklog-17.12.2016_to_24.12.2016.md) 
+- [Week 09.12.2016 - 16.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/actualWeeklyLog/data/2016/December/weeklog-09.12.2016_to_16.12.2016.md) 
 - [Week 01.12.2016 - 08.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/actualWeeklyLog/data/2016/December/weeklog-01.12.2016_to_08.12.2016.md) 
 
 
