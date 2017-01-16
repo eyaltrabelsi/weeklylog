@@ -1,4 +1,4 @@
-# weeklylog 09.12.2016 - 16.12.2016
+# weeklylog 09.01.2017 - 16.01.2017
 
 ## Articles
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d#.ixfgut53a) `remote` `pycharm` 
