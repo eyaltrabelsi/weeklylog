@@ -26,7 +26,7 @@
 - [The Knowledge Repository (BETA)](https://github.com/airbnb/knowledge-repo/blob/master/README.md) `airbnb` `knowledge sharing` 
 
 ## Tips
-- data visualisation categories info:	
+- **data visualisation categories info**:	
 	- deviation, emphasis variation from a fixed reference point. typically the reference point is zero but it can also be a target or along term average. can also be used to show sentiment.
 		- spine chart , split a single value into 2 contrasting components (eg female/male)
 		- diverging bar, a simple standard bar chart that can handle both negative and positive magnitude values

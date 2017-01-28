@@ -26,7 +26,7 @@
 - [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf) `fuzzy finder`
 
 ## Tips
-- Dimension reduction flow info:    
+- **Dimension reduction flow info**:    
     1) missing values:
        - if x>95 discard
          if 50=<x<=95 no imputation (missing value indicator)

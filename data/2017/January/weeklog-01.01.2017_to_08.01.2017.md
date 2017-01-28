@@ -62,6 +62,7 @@
     - feature engineering can greatly improve prediction accuracy
     - another lesson i can take away from this competition is that cross validation help significantly 
     - very common approach to creating new features is to combine numeric features with mathematical operations , common one are x+y xy x^2 logx
+    - one can construct new features by combination existing ones    
 - **Reviews Corpuses info**:
     - sentiment140:
 	    * 1.6 million labeled english tweets
