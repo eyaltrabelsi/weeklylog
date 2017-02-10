@@ -2,8 +2,12 @@
 Too often, a week passes by and I reflect back on it wondering what I actually accomplished.
 <br />This log is my attempt to document where my job takes me on a week-to-week basis.
 
+
+## February 2017
+- [Week 01.02.2017 - 08.02.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-01.02.2017_to_08.02.2017.md) 
+
 ## January 2017
-- [Week 25.01.2017 - 28.01.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-25.01.2017_to_28.01.2017.md) 
+- [Week 25.01.2017 - 31.01.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-25.01.2017_to_31.01.2017.md) 
 - [Week 17.01.2017 - 24.01.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-17.01.2017_to_24.01.2017.md) 
 - [Week 09.01.2017 - 16.01.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-09.01.2017_to_16.01.2017.md) 
 - [Week 01.01.2017 - 08.01.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-01.01.2017_to_08.01.2017.md) 
@@ -13,7 +17,6 @@ Too often, a week passes by and I reflect back on it wondering what I actually a
 - [Week 17.12.2016 - 24.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2016/December/weeklog-17.12.2016_to_24.12.2016.md) 
 - [Week 09.12.2016 - 16.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2016/December/weeklog-09.12.2016_to_16.12.2016.md) 
 - [Week 01.12.2016 - 08.12.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2016/December/weeklog-01.12.2016_to_08.12.2016.md) 
-
 
 ## November 2016
 - [Week 26.11.2016 - 30.11.2016](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2016/November/weeklog-26.11.2016_to_30.11.2016.md)
