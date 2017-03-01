@@ -4,7 +4,10 @@ Too often, a week passes by and I reflect back on it wondering what I actually a
 
 
 ## February 2017
-- [Week 01.02.2017 - 08.02.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-01.02.2017_to_08.02.2017.md) 
+- [Week 25.02.2017 - 28.02.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/February/weeklog-25.02.2017_to_28.02.2017.md) 
+- [Week 17.02.2017 - 24.02.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/February/weeklog-17.02.2017_to_24.02.2017.md) 
+- [Week 09.02.2017 - 16.02.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/February/weeklog-09.02.2017_to_16.02.2017.md) 
+- [Week 01.02.2017 - 08.02.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/February/weeklog-01.02.2017_to_08.02.2017.md) 
 
 ## January 2017
 - [Week 25.01.2017 - 31.01.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/January/weeklog-25.01.2017_to_31.01.2017.md) 
