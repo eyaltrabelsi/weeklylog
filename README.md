@@ -2,8 +2,14 @@
 Too often, a week passes by and I reflect back on it wondering what I actually accomplished.
 <br />This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## April 2017
+- [Week 25.04.2017 - 31.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-25.04.2017_to_31.04.2017.md)
+- [Week 17.04.2017 - 24.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-17.04.2017_to_24.04.2017.md) 
+- [Week 09.04.2017 - 16.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-09.04.2017_to_16.04.2017.md) 
+- [Week 01.04.2017 - 08.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-01.04.2017_to_08.04.2017.md) 
+
 ## March 2017
-- [Week 17.03.2017 - 24.03.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/March/weeklog-25.03.2017_to_31.03.2017.md)
+- [Week 25.03.2017 - 31.03.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/March/weeklog-25.03.2017_to_31.03.2017.md)
 - [Week 17.03.2017 - 24.03.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/March/weeklog-17.03.2017_to_24.03.2017.md) 
 - [Week 09.03.2017 - 16.03.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/March/weeklog-09.03.2017_to_16.03.2017.md) 
 - [Week 01.03.2017 - 08.03.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/March/weeklog-01.03.2017_to_08.03.2017.md) 
