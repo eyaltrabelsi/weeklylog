@@ -10,14 +10,10 @@
 
     
 ## Videos
-- [](https://www.youtube.com/watch?v=1a4pgYzeFwE)
-`` `` `` `` `` ``
-- [](https://www.youtube.com/watch?v=TGGGDpb04Yc)
-`` `` `` `` `` ``
-- [](https://www.youtube.com/watch?v=HcaAKI1tVGM)
-`` `` `` `` `` ``
-- [](https://www.youtube.com/watch?v=6zm9NC9uRkk)
-`` `` `` `` `` ``
+- [Structuring Apache Spark 2.0: SQL, DataFrames, Datasets And Streaming](https://www.youtube.com/watch?v=1a4pgYzeFwE) `spark` `sql` `big data` `data engineer`
+- [Statistical Thinking for Data Science | SciPy 2015 | Chris Fonnesbeck](https://www.youtube.com/watch?v=TGGGDpb04Yc) `stats` `data science` `favorite`
+- [Fraud detection challenges and data skepticism using LIME](https://www.youtube.com/watch?v=HcaAKI1tVGM) `ml` `data science` `favorite` `pydata`
+- [Patrick Harrison | Modern NLP in Python](https://www.youtube.com/watch?v=6zm9NC9uRkk) `nlp` `data science` `ml` `favorite`
 
 
 

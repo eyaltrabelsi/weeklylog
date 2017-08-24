@@ -2,13 +2,20 @@
 Too often, a week passes by and I reflect back on it wondering what I actually accomplished.
 <br />This log is my attempt to document where my job takes me on a week-to-week basis.
 
-## April 2017
+## June 2017
+- [Week 25.06.2017 - 31.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-25.06.2017_to_31.06.2017.md)
+- [Week 17.06.2017 - 24.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-17.06.2017_to_24.06.2017.md) 
+- [Week 09.06.2017 - 16.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-09.06.2017_to_16.06.2017.md) 
+- [Week 01.06.2017 - 08.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-01.06.2017_to_08.06.2017.md)
+
+## May 2017
+- [Week 25.05.2017 - 31.05.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-25.05.2017_to_31.05.2017.md)
 - [Week 17.05.2017 - 24.05.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-17.05.2017_to_24.05.2017.md) 
 - [Week 09.05.2017 - 16.05.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-09.05.2017_to_16.05.2017.md) 
 - [Week 01.05.2017 - 08.05.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-01.05.2017_to_08.05.2017.md)
 
 ## April 2015
-- [Week 25.05.2017 - 31.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-25.04.2017_to_31.04.2017.md)
+- [Week 25.04.2017 - 31.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-25.04.2017_to_31.04.2017.md)
 - [Week 17.04.2017 - 24.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-17.04.2017_to_24.04.2017.md) 
 - [Week 09.04.2017 - 16.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-09.04.2017_to_16.04.2017.md) 
 - [Week 01.04.2017 - 08.04.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/April/weeklog-01.04.2017_to_08.04.2017.md) 
