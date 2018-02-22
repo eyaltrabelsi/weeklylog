@@ -3,10 +3,10 @@ Too often, a week passes by and I reflect back on it wondering what I actually a
 <br />This log is my attempt to document where my job takes me on a week-to-week basis.
 
 ## June 2017
-- [Week 25.06.2017 - 31.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-25.06.2017_to_31.06.2017.md)
-- [Week 17.06.2017 - 24.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-17.06.2017_to_24.06.2017.md) 
-- [Week 09.06.2017 - 16.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-09.06.2017_to_16.06.2017.md) 
-- [Week 01.06.2017 - 08.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-01.06.2017_to_08.06.2017.md)
+- [Week 25.06.2017 - 31.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/June/weeklog-25.06.2017_to_31.06.2017.md)
+- [Week 17.06.2017 - 24.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/June/weeklog-17.06.2017_to_24.06.2017.md) 
+- [Week 09.06.2017 - 16.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/June/weeklog-09.06.2017_to_16.06.2017.md) 
+- [Week 01.06.2017 - 08.06.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/June/weeklog-01.06.2017_to_08.06.2017.md)
 
 ## May 2017
 - [Week 25.05.2017 - 31.05.2017](https://github.com/eyaltrabelsi/weeklylog/tree/master/data/2017/May/weeklog-25.05.2017_to_31.05.2017.md)
